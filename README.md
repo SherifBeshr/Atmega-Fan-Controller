@@ -20,3 +20,4 @@ Temperature >= 90   -->  FAN speed = 75%  of Max Speed
 
 Temperature >= 120  -->  FAN speed = 100% of Max Speed
 		 
+![image](https://user-images.githubusercontent.com/63435727/154865958-3ff5940a-9d5a-454e-b720-e942228e2d30.png)
